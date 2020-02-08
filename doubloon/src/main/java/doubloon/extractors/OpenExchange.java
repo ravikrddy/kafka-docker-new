@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  
 public class OpenExchange { 
    
-  private static final String API_KEY = "2ddac0fc829849399bfd2ae34899a9d1";                 //1 
+  private static final String API_KEY = "XXX";                 //1 
   protected static final ObjectMapper MAPPER = new ObjectMapper(); 
    
   public double getPrice(String currency) { 
