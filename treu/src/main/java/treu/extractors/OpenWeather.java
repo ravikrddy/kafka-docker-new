@@ -11,7 +11,7 @@ import java.util.logging.Logger;
  
 public class OpenWeather { 
    
-  private static final String API_KEY = "49b62aa6ae87e5728ff22b558d5a7d";                 //1 
+  private static final String API_KEY = "XXX";                 //1 
   protected static final ObjectMapper MAPPER = new ObjectMapper(); 
    
   public double getTemperature() { 
